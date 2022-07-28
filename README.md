@@ -1,2 +1,5 @@
-# IC-PHP
-Trabalho de IC Unesp - App Web de Vendas em PHP e ReactJS
+# PFC-ICC
+
+PFC Unesp - Orientado por Celso Olivete Júnior
+
+##App Web de Vendas em PHP e ReactJS
